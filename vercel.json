@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/blog/:slug*",
+      "destination": "http://149.28.151.138/:slug*"
+    }
+  ]
+}
